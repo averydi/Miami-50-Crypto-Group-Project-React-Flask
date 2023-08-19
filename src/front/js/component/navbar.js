@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import tartLogo from "/workspaces/Miami-50-Crypto-Group-Project-React-Flask/src/front/img/tart.png";
+//import tartLogo from "/workspaces/Miami-50-Crypto-Group-Project-React-Flask/src/front/img/tart.png";
 import { Context } from "../store/appContext";
 import "./navbar.css";
 
